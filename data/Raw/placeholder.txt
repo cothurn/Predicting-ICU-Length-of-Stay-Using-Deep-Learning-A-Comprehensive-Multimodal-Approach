@@ -1,0 +1,1 @@
+Place raw data from MIMIC in this folder
